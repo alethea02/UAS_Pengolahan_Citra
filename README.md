@@ -5,4 +5,5 @@
 | 312210690 | Veronika Natalia Kala|
 
 
-UAS_Citra.pdf
+
+[UAS_Citra.pdf](https://github.com/user-attachments/files/16151925/UAS_Citra.pdf)
